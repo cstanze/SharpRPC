@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpRPC", "SharpRPC.csproj", "{0CFC049D-5CE8-414B-BBD6-03EB717901DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CFC049D-5CE8-414B-BBD6-03EB717901DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFC049D-5CE8-414B-BBD6-03EB717901DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFC049D-5CE8-414B-BBD6-03EB717901DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFC049D-5CE8-414B-BBD6-03EB717901DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C3D9B26-6B42-4601-A2D7-9CE1408A747A}
+	EndGlobalSection
+EndGlobal
